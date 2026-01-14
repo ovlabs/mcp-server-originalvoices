@@ -1,6 +1,6 @@
 {
   "name": "@originalvoices/mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mcpName": "io.github.ovlabs/originalvoices",
   "description": "MCP server for OriginalVoices - Ask AI twins questions about any audience",
   "main": "dist/index.js",
