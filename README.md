@@ -67,10 +67,10 @@ Ask questions to a specific audience using OriginalVoices AI twins.
 
 ```json
 {
-  "audience": "Software developers aged 25-40 in the US",
+  "audience": "UK, 18-30, fitness enthusiasts",
   "questions": [
-    "What is your biggest frustration with current dev tools?",
-    "How do you discover new tools and frameworks?"
+    "When purchasing running shoes, what's most important to you?",
+    "How often do you replace your running shoes?"
   ]
 }
 ```
