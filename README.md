@@ -1,6 +1,6 @@
-# Original Voices MCP Server
+# OriginalVoices MCP Server
 
-An MCP (Model Context Protocol) server that provides access to [Original Voices](https://originalvoices.ai) AI twins for audience research.
+An MCP (Model Context Protocol) server that provides access to [OriginalVoices](https://originalvoices.ai) AI twins for audience research.
 
 ## Installation
 
@@ -14,7 +14,7 @@ npm install @originalvoices/mcp-server
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| `ORIGINALVOICES_API_KEY` | Your Original Voices API key | Yes |
+| `ORIGINALVOICES_API_KEY` | Your OriginalVoices API key | Yes |
 
 ### Claude Desktop
 
@@ -54,7 +54,7 @@ Add to your `claude_desktop_config.json`:
 
 ### ask_twins
 
-Ask questions to a specific audience using Original Voices AI twins.
+Ask questions to a specific audience using OriginalVoices AI twins.
 
 **Parameters:**
 
