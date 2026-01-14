@@ -88,6 +88,12 @@ npm run build
 npm run dev
 ```
 
+## FAQ
+
+### How do I get an API key?
+
+You can create an API key on the [OriginalVoices Platform](https://platform.originalvoices.ai).
+
 ## License
 
 MIT
