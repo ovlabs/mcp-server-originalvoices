@@ -1,5 +1,7 @@
 # OriginalVoices MCP Server
 
+[![npm version](https://img.shields.io/npm/v/@originalvoices/mcp-server.svg)](https://www.npmjs.com/package/@originalvoices/mcp-server)
+
 An MCP (Model Context Protocol) server that provides access to [OriginalVoices](https://originalvoices.ai) AI twins for audience research.
 
 ## Installation
