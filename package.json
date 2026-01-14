@@ -1,7 +1,7 @@
 {
   "name": "@originalvoices/mcp-server",
   "version": "1.0.0",
-  "description": "MCP server for Original Voices - Ask AI twins questions about any audience",
+  "description": "MCP server for OriginalVoices - Ask AI twins questions about any audience",
   "main": "dist/index.js",
   "type": "module",
   "bin": {
