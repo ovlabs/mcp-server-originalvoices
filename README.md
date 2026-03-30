@@ -4,6 +4,10 @@
 
 An MCP (Model Context Protocol) server that provides access to [OriginalVoices](https://originalvoices.ai) AI twins for audience research.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/ovlabs-mcp-server-originalvoices).
+
 ## Installation
 
 ```bash
