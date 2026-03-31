@@ -6,7 +6,7 @@ import OriginalVoices from "originalvoices";
 
 const server = new McpServer({
   name: "originalvoices",
-  version: "1.0.1",
+  version: "1.0.2",
 });
 
 const client = new OriginalVoices({
