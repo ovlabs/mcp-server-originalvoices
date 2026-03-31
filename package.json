@@ -1,6 +1,6 @@
 {
   "name": "@originalvoices/mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "mcpName": "io.github.ovlabs/originalvoices",
   "description": "MCP server for OriginalVoices - Ask AI twins questions about any audience",
   "main": "dist/index.js",
@@ -32,7 +32,8 @@
     "node": ">=20"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.25.2",
